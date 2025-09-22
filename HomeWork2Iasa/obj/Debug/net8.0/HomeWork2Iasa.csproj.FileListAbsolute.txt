@@ -1,0 +1,14 @@
+C:\Users\Dream Machines\Desktop\C# Projects\HomeWork2Iasa\HomeWork2Iasa\bin\Debug\net8.0\HomeWork2Iasa.exe
+C:\Users\Dream Machines\Desktop\C# Projects\HomeWork2Iasa\HomeWork2Iasa\bin\Debug\net8.0\HomeWork2Iasa.deps.json
+C:\Users\Dream Machines\Desktop\C# Projects\HomeWork2Iasa\HomeWork2Iasa\bin\Debug\net8.0\HomeWork2Iasa.runtimeconfig.json
+C:\Users\Dream Machines\Desktop\C# Projects\HomeWork2Iasa\HomeWork2Iasa\bin\Debug\net8.0\HomeWork2Iasa.dll
+C:\Users\Dream Machines\Desktop\C# Projects\HomeWork2Iasa\HomeWork2Iasa\bin\Debug\net8.0\HomeWork2Iasa.pdb
+C:\Users\Dream Machines\Desktop\C# Projects\HomeWork2Iasa\HomeWork2Iasa\obj\Debug\net8.0\HomeWork2Iasa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dream Machines\Desktop\C# Projects\HomeWork2Iasa\HomeWork2Iasa\obj\Debug\net8.0\HomeWork2Iasa.AssemblyInfoInputs.cache
+C:\Users\Dream Machines\Desktop\C# Projects\HomeWork2Iasa\HomeWork2Iasa\obj\Debug\net8.0\HomeWork2Iasa.AssemblyInfo.cs
+C:\Users\Dream Machines\Desktop\C# Projects\HomeWork2Iasa\HomeWork2Iasa\obj\Debug\net8.0\HomeWork2Iasa.csproj.CoreCompileInputs.cache
+C:\Users\Dream Machines\Desktop\C# Projects\HomeWork2Iasa\HomeWork2Iasa\obj\Debug\net8.0\HomeWork2Iasa.dll
+C:\Users\Dream Machines\Desktop\C# Projects\HomeWork2Iasa\HomeWork2Iasa\obj\Debug\net8.0\refint\HomeWork2Iasa.dll
+C:\Users\Dream Machines\Desktop\C# Projects\HomeWork2Iasa\HomeWork2Iasa\obj\Debug\net8.0\HomeWork2Iasa.pdb
+C:\Users\Dream Machines\Desktop\C# Projects\HomeWork2Iasa\HomeWork2Iasa\obj\Debug\net8.0\HomeWork2Iasa.genruntimeconfig.cache
+C:\Users\Dream Machines\Desktop\C# Projects\HomeWork2Iasa\HomeWork2Iasa\obj\Debug\net8.0\ref\HomeWork2Iasa.dll
