@@ -1,0 +1,1 @@
+# HomeTask2Iasa_Kosyk-Maksym-KI-32
